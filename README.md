@@ -12,9 +12,10 @@ Navigate to the folder where you did your git clone with your newly forked repos
 Make sure you are in the root directory IE. lab-maddy.;
 Type npm i into your terminal.
 
-FROM Code Fellows 301 night class labs:
 
-## Documentation
+### FROM Code Fellows 301 night class labs:
+
+#### Documentation
 _Your README.md must include:_
 
 ```md
