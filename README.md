@@ -13,7 +13,7 @@ Make sure you are in the root directory IE. lab-maddy.;
 Type npm i into your terminal.
 
 
-### FROM Code Fellows 301 night class labs:
+### From Code Fellows 301 night class labs:
 
 #### Documentation
 _Your README.md must include:_
